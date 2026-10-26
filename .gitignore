@@ -1,0 +1,8 @@
+﻿node_modules/
+.profile/
+.profile2/
+output/
+calibrate.json
+audit.json
+*.log
+.DS_Store

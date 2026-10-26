@@ -1,0 +1,16 @@
+﻿{
+  "name": "batch-document-harvester",
+  "version": "1.0.0",
+  "description": "Playwright-based framework for harvesting documents and reading structured state from dynamic web apps with calibration and audit passes",
+  "main": "src/collect.js",
+  "scripts": {
+    "calibrate": "node src/calibrate.js",
+    "collect": "node src/collect.js",
+    "audit": "node src/audit.js"
+  },
+  "keywords": ["playwright", "web-scraping", "browser-automation", "data-extraction", "nodejs"],
+  "license": "MIT",
+  "dependencies": {
+    "playwright": "^1.64.1"
+  }
+}

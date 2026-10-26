@@ -1,0 +1,20 @@
+﻿{
+  "calibratedAt": "2026-01-01T00:00:00.000Z",
+  "activeSet": "v2",
+  "sets": {
+    "v2": {
+      "container": ".contentCard",
+      "item": ".item",
+      "title": ".mark_name",
+      "option": ".payloadBg",
+      "selectedClass": "active"
+    },
+    "v1": {
+      "container": ".legacyCard",
+      "item": ".itemLegacy",
+      "title": ".title_v1",
+      "option": ".opt_v1",
+      "selectedClass": "checked"
+    }
+  }
+}
