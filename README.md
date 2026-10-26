@@ -1,4 +1,4 @@
-# Batch Document Harvester
+﻿# Batch Document Harvester
 
 A Playwright-based framework for harvesting documents and reading structured state from
 dynamic web apps whose DOM changes between versions — with a calibration pass, a
@@ -25,6 +25,8 @@ Most scraping attempts against this kind of target fail at step one, and the per
 ---
 
 ## Architecture
+
+![Architecture](docs/architecture.png)
 
 ```
 ┌─────────────────┐
